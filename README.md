@@ -1,0 +1,2 @@
+# LotCoin
+LotCoin
